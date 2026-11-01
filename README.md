@@ -25,9 +25,6 @@ prepend_previewers = [
 ]
 ```
 
-The preview is a still image, rendered once and cached, at the size `max_width` and `max_height` under `[preview]` set.
-Yazi shows it as it does other images.
-
 ## Opening models
 
 To open models in the interactive viewer with Enter:
